@@ -1,5 +1,5 @@
 # Personal Website
-## [himetsai.com](https://himetsai.com)
+### [himetsai.com](https://himetsai.com)
 
 # Stats
 
