@@ -1,5 +1,4 @@
 # Personal Website
-
 ## [himetsai.com](https://himetsai.com)
 
 # Stats
